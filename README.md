@@ -21,7 +21,7 @@ Licence
 This project is licensed under the CERN Open Hardware Licence v2-S. You are free to use, modify, and redistribute the design files, but any modifications or derived versions must also be shared under the same licence.
 
 Credits
-Design, research, and prototyping by Darius - mddesigner@outlook.com
+Design, research, and prototyping by Darius - designer.md@outlook.com
 Special thanks to the Ravensbourne print shop & workshop tech staff + everyone who provided feedback during development.
 
 Keyboard Layout:
