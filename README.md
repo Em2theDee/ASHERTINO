@@ -13,9 +13,7 @@ Designed with open source components and tools
 3D model and prototype tested
 
 Licence
-This project is licensed under the CERN Open Hardware Licence v2.
-You are free to use, modify, and redistribute the design files, but any modifications or derived versions must also be shared under the same licence.
-See the LICENSE file for full terms.
+This project is licensed under the CERN Open Hardware Licence v2-S. You are free to use, modify, and redistribute the design files, but any modifications or derived versions must also be shared under the same licence.
 
 Credits
 Design, research, and prototyping by Darius
