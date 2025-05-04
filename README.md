@@ -18,3 +18,5 @@ This project is licensed under the CERN Open Hardware Licence v2-S. You are free
 Credits
 Design, research, and prototyping by Darius
 Special thanks to the Ravensbourne print shop & workshop tech staff + everyone who provided feedback during development.
+
+![DSC02078](https://github.com/user-attachments/assets/6320899b-19dc-4eb5-9389-d12d6e49ba71)
