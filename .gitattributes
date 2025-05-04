@@ -5,3 +5,5 @@ Model/Keyboard filter=lfs diff=lfs merge=lfs -text
 small.glb filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
 C:/Users/dariu/OneDrive/Main filter=lfs diff=lfs merge=lfs -text
+C:/Users/dariu/OneDrive/Main[[:space:]]work/School/UNI/YR03S02/Final[[:space:]]major[[:space:]]Project/ASHERTINO/3D[[:space:]]Model/Keyboard[[:space:]]small.glb filter=lfs diff=lfs merge=lfs -text
+3D[[:space:]]Model/Keyboard[[:space:]]small.glb filter=lfs diff=lfs merge=lfs -text
